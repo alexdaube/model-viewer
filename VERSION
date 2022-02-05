@@ -1,0 +1,25 @@
+commit 20a1c8101e3ae2c88a31ca108a7db8226a9eadec
+Author: Emmett Lalish <elalish@google.com>
+Date:   Fri Feb 4 17:21:04 2022 -0800
+
+    Softer shadows (#3182)
+    
+    * added new shadow system
+    
+    * cleanup
+    
+    * more fixes and cleanup
+    
+    * fixed xr bug
+    
+    * math for shadow softness and padding
+    
+    * fixed wall shadow
+    
+    * fix baked shadow z-fighting
+    
+    * fixed XR bug and cleanup
+    
+    * adjusting default intensities
+    
+    * updated editor sliders
